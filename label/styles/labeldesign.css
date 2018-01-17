@@ -1,0 +1,43 @@
+body{
+  font-family: 'Amita',cursive;
+  font-size: 20px;
+  width:auto;
+  margin-left: 25%;
+  margin-right: 20%;
+  margin-top: 10%;
+}
+
+#mylabel{
+  border-style: dashed;
+  border-width: thick;
+  border-color: black;
+  /*padding: 10% 20% 10% 20%; */
+}
+
+#text{
+  box-sizing: border-box;
+  display: inline-block;
+  width: 50%;
+  margin-left: 5%;
+}
+
+#picture{
+  box-sizing: border-box;
+  display: inline-block;
+  width: 44%;
+}
+
+#picture img{
+  float: right;
+  width: 100%;
+}
+
+h1{
+  font-size: 45px;
+}
+
+ul{
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
